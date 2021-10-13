@@ -1,0 +1,26 @@
+<!--
+    Representar códigos de computador
+
+    <code>
+        Partes genéricas de códigos
+
+    <pres>
+        Blocos de códigos, pois essa tag mantém os espaços em brancos e recuos que eu colocar no meu código
+-->
+
+<pre>
+    <code>
+        print('Hello, World!')
+    </code>
+</pre>
+
+<!-- Escrever código HTML -->
+<pre>
+    <code>
+        &lt;body&gt;
+            &lt;p&gt;
+            Hello, World!
+            &lt;/p&gt;
+        &lt;/body&gt;
+    </code>
+</pre>
