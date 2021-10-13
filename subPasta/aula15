@@ -1,0 +1,13 @@
+<!--
+    Como navegar pelos caminhos?
+
+    - Mesmo diretório
+    - Entrando em diretórios
+    - Saindo de diretórios
+    - Diretórios raiz (root ou pai)
+-->
+
+<a href="aula15.html">Arquivos na mesma pasta</a><br>
+<a href="../aula12.html">Arquivo na pasta anterior</a><br>
+<a href="../outrosDiretorios/aula10.html">Arquivo na pasta outrosDiretorios</a><br>
+<a href="./aula15.html">Arquivos no diretório raiz</a>
